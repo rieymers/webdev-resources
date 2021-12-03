@@ -14,7 +14,10 @@
  Copy and paste elements from various famous sites and frameworks (Mainly buttons, boxshadows, forminputs)  
 
  [Pure CSS](https://purecss.io/)  
- Complete CSS Framework, ready to use for production. Build on normalize.css
+ Complete CSS Framework, ready to use for production. Build on normalize.css  
+
+ [CSSLAYOUT.IO]{https://csslayout.io/}  
+ CSS Elements for Copy Paste
 
 ## Full Blown Front End Frameworks:
 
